@@ -1,0 +1,6 @@
+{
+  "name": "Prophet Biography Quiz",
+  "description": "An interactive educational quiz about the Biography of Prophet Muhammad with rich traditional Islamic patterns and a gentle time tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
